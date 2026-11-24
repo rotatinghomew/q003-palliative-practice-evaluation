@@ -2,3 +2,5 @@ practice_key,site,activity_kind,start_date,end_date,learner_role,feedback_window
 P-01,North,listening-practice,2026-03-01,2026-03-15,observer,7d
 P-02,East,care-conversation,2026-04-01,2026-04-10,participant,14d
 P-03,West,family-support,2026-05-01,2026-05-12,participant,14d
+P-04,North,listening-practice,2026-06-03,2026-06-18,participant,14d
+P-05,East,care-conversation,2026-07-06,2026-07-16,observer,21d
