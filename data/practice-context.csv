@@ -1,6 +1,6 @@
-practice_key,site,activity_kind,start_date,end_date,learner_role,feedback_window
-P-01,North,listening-practice,2026-03-01,2026-03-15,observer,7d
-P-02,East,care-conversation,2026-04-01,2026-04-10,participant,14d
-P-03,West,family-support,2026-05-01,2026-05-12,participant,14d
-P-04,North,listening-practice,2026-06-03,2026-06-18,participant,14d
-P-05,East,care-conversation,2026-07-06,2026-07-16,observer,21d
+placement_key,site,term,practice_theme,eligible_track,capacity,supervisor_pool,valid_from,valid_to
+PL-11,North,2026-Spring,listening,core,2,SP-A,2026-02-01,2026-05-31
+PL-12,East,2026-Spring,care-conversation,advanced,1,SP-B,2026-02-01,2026-05-31
+PL-13,West,2026-Spring,family-support,core,2,SP-C,2026-02-15,2026-05-31
+PL-14,North,2026-Fall,listening,advanced,1,SP-A,2026-09-01,2026-12-31
+PL-15,East,2026-Fall,care-conversation,core,2,SP-D,2026-09-01,2026-12-31

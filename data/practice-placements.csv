@@ -1,0 +1,11 @@
+learner_key,track,term,placement_key,requested_theme,assignment_state,actual_start,actual_end,completion_state,observed_theme
+L-12,core,2026-Spring,PL-11,listening,confirmed,2026-03-03,2026-03-04,completed,listening
+L-19,advanced,2026-Spring,PL-12,care-conversation,confirmed,2026-04-06,2026-04-07,completed,care-conversation
+L-22,core,2026-Spring,PL-13,family-support,confirmed,2026-04-13,2026-04-14,completed,family-support
+L-31,core,2026-Spring,PL-11,listening,waitlisted,,,not-started,
+L-34,advanced,2026-Spring,PL-12,care-conversation,confirmed,2026-04-20,,cancelled,
+L-41,core,2026-Spring,PL-13,listening,confirmed,2026-05-04,2026-05-05,completed,family-support
+L-44,advanced,2026-Fall,PL-14,listening,proposed,,,not-started,
+L-52,core,2026-Fall,PL-15,care-conversation,confirmed,2026-09-21,2026-09-22,completed,care-conversation
+L-57,core,2026-Fall,PL-15,care-conversation,confirmed,2026-09-28,2026-09-29,completed,care-conversation
+L-63,advanced,2026-Fall,PL-14,listening,confirmed,2026-10-05,2026-10-06,completed,listening
